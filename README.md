@@ -26,6 +26,6 @@ Kivy might need some other packages to work so check www.kivy.org for installati
 Once the components are installed the program can be run with
 
 ```
-python detector.p
+python detector.py
 ```
 
